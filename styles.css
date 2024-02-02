@@ -1,9 +1,13 @@
 th,td{
             border: 2px solid rgb(177, 171, 171);
+            font-weight: 700;
             font-size: 25px;
-            padding: 1rem;
+            padding: 0.5rem;
             border-radius: 10px;
         }
+        td{
+            font-weight: 600;
+        }
         .fillbackground{
-            background-color: rgba(130, 196, 196, 0.3);
+            background-color: rgba(76, 162, 108, 0.3);
         }
