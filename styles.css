@@ -1,1 +1,9 @@
-/*  your css code here. If applicable */
+th,td{
+            border: 2px solid rgb(177, 171, 171);
+            font-size: 25px;
+            padding: 1rem;
+            border-radius: 10px;
+        }
+        .fillbackground{
+            background-color: rgba(130, 196, 196, 0.3);
+        }
