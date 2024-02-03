@@ -1,11 +1,12 @@
 table{
-	 font-family: 'Lora', serif;;
+	font-family: 'Lora', serif;
 	
 }
-
+th{
+	font-weight:700;
+}
 th,td{
-            border: 1px solid #ccc;
-            font-weight: 900;
+            border: 1px solid #ccc;            
             font-size: 20px;
             padding: 0.5rem;
             border-radius: 5px;
