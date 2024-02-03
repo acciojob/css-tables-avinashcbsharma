@@ -1,18 +1,21 @@
 table{
-	 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	 font-family: 'Lora', serif;;
 	
 }
 
 th,td{
-            border: 2px solid rgb(177, 171, 171);
-            font-weight: 700;
-            font-size: 25px;
-            padding: 1rem;
-            border-radius: 10px;
+            border: 1px solid #ccc;
+            font-weight: 900;
+            font-size: 20px;
+            padding: 0.5rem;
+            border-radius: 5px;
         }
-        td{
-            font-weight: 600;
+td{
+            font-weight: 400;
         }
-        .fillbackground{
-            background-color: rgba(76, 162, 108, 0.3);
+.fillbackground{
+            background-color:#f2f2f2;
         }
+.evenBground{
+	background-color:#ffffff;
+}
